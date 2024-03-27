@@ -1,0 +1,16 @@
+import Author from "./Author"
+import AuthorPosts from "./AuthorPosts"
+import Logout from "./Logout"
+import CategoryPost from "./CategoryPost"
+import Dashboard from "./Dashboard"
+import EditPost from "./EditPost"
+import Login from "./Login"
+import Home from "./Home"
+import ErrorPage from "./ErrorPage"
+import DeletePost from "./DeletePost"
+import CreatePost from "./CreatePost"
+import PostDetail from "./PostDetail"
+import UserPorfile from "./UserProfile"
+import Register from "./Register"
+
+export {Author,AuthorPosts,Login,Logout,CategoryPost,CreatePost,Dashboard,DeletePost,PostDetail,UserPorfile,Register,Home,EditPost,ErrorPage};
